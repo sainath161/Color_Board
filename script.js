@@ -10,7 +10,7 @@ function getRandomColor() {
     return color;
 }
 
-// Create 800 squares with different hover colors
+// Create 3200 squares with different hover colors
 for (let i = 0; i < 3200; i++) {
     const square = document.createElement('div');
     square.classList.add('square');
