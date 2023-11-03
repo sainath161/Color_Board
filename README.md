@@ -11,7 +11,7 @@ Table of Contents
 
 Features
 
-    Displays a grid of 800 squares.
+    Displays a grid of 3200 squares.
     Each square changes its background color on hover.
     A smooth color transition on hover.
     Squares return to their original color after 1 second.
@@ -30,7 +30,7 @@ The project consists of the following files:
 
     index.html: The main HTML file that structures the web page and includes the JavaScript and CSS files.
 
-    style.css: The CSS file that defines the styles for the squares, container, and the overall layout.
+    style.css: The CSS file that defines the styles for the squares, container, and overall layout.
 
     script.js: The JavaScript file that dynamically generates the 800 squares and adds hover functionality to change their colors.
 
@@ -38,7 +38,7 @@ How to Use
 
     Open the index.html file in a web browser.
 
-    You will see a grid of 800 squares within a container.
+    You will see a grid of 3200 squares within a container.
 
     Hover over any square, and it will change its background color to a random color.
 
